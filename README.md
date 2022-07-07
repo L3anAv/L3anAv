@@ -23,4 +23,4 @@ I am currently in the third year of my computer technician career. I really like
 
 ## >> Last Repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3anAv&repo=SPA-Movies)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3anAv&repo=SPA-Movies)](https://github.com/L3anAv/SPA-Movies)
