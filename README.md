@@ -1,13 +1,17 @@
+
+###### ⚠️ Readme in English, repositories in Spanish ⚠️
+
 #  🌟 Hi, I'am Leandro!
 
-I am currently in the third year of my computer technician career. I really like FrontEnd, I'm currently learning React JS. 
+<br>
+
+### *I am currently in the third year of my computer technician career. I really like FrontEnd, I'm currently learning React JS.*  
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3)
 [![portfolio](https://img.shields.io/badge/my_portfolio_👷🏾_(Building)-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) 
 
-<br>
 
-## 💻 My Skills
+## # 💻 My Skills
 
 <br>
 
@@ -21,6 +25,6 @@ I am currently in the third year of my computer technician career. I really like
 
 
 
-## >> Last Repository
+## # 📃 Last Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3anAv&repo=SPA-Movies)](https://github.com/L3anAv/SPA-Movies)
