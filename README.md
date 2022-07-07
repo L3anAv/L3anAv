@@ -1,7 +1,7 @@
 
 ###### ⚠️ Readme in English, repositories in Spanish ⚠️
 <br>
-<img src="https://i.imgur.com/6HG1io2.png" width=20%>
+<img src="https://i.imgur.com/6HG1io2.png" width=30%>
 
 # 🌟 Hi, I'am Leandro! 
 
