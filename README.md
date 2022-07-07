@@ -11,9 +11,9 @@ I am currently in the third year of my computer technician career. I really like
 
 <br>
 
-![](https://skillicons.dev/icons?i=git,vscode,eclipse,figma) 
+[![Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,figma)](https://github.com/L3anAv) 
 
-![](https://skillicons.dev/icons?i=react,tailwind,styledcomponents,nodejs) 
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,styledcomponents,nodejs)](https://github.com/L3anAv) 
 
 <br>
 
