@@ -1,5 +1,3 @@
-<br>
-
 #  🌟 Hi, I'am Leandro!
 
 I am currently in the third year of my computer technician career. I really like FrontEnd, I'm currently learning React JS. 
