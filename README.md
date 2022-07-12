@@ -25,7 +25,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&layout=compact)](https://github.com/L3anAv)  
 
 
+<br>
 
 # # 📃 Last Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3anAv&repo=SPA-Movies)](https://github.com/L3anAv/SPA-Movies)
+
+<br>
+<br>
