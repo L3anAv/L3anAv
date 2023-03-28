@@ -16,7 +16,7 @@
 
 ## 💻 Lenguajes - Herramientas - Frameworks
 
-[![Skills](https://skillicons.dev/icons?i=react,java,postgres)](https://github.com/L3anAv)
+[![Skills](https://skillicons.dev/icons?i=react,java,py,go,postgres)](https://github.com/L3anAv)
 
 [![Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,linux,vite)](https://github.com/L3anAv) 
 
