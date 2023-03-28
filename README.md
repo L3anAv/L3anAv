@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&layout=compact)](https://github.com/L3anAv)  
 
-### 📌 `Desarollando actualmente:`
+### 📌 Desarollando actualmente:
 
 <br>
 
@@ -21,14 +21,14 @@
 
 <br>
 
-## `🧠 Aprendiendo`
+## 🧠 Aprendiendo
 <br>
 
 [![Skills](https://skillicons.dev/icons?i=ts)](https://github.com/L3anAv)
 
 <br>
 
-## `💻 Lenguajes y herramientas que uso`
+## 💻 Lenguajes - Herramientas - Frameworks
 <br>
 
 [![Skills](https://skillicons.dev/icons?i=react,java,postgres)](https://github.com/L3anAv)
@@ -38,6 +38,6 @@
 
 <br>
 
-# # `📃 Último repositorio de trabajos universitario`
+# # 📃 Último repositorio de trabajo universitario
 
 [![L3anAv/bdd-tp-postgres - GitHub](https://gh-card.dev/repos/L3anAv/bdd-tp-postgres.png)](https://github.com/L3anAv/bdd-tp-postgres)
