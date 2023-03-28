@@ -4,7 +4,7 @@
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3) [![portfolio](https://img.shields.io/badge/my_portfolio_👷🏾_(Building)-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&hide_progress=true)](https://github.com/L3anAv)
+<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&hide_progress=true)](https://github.com/L3anAv) </div>
 
 ### 🧠 Desarollando actualmente:
 
