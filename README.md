@@ -6,16 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&layout=compact)](https://github.com/L3anAv)  
 
-### 📌 Desarollando actualmente:
+### 🧠 Desarollando actualmente:
 
 `⚡ Actualmente estoy aprendiendo desarollo Frontend con React JS.`
 
 [![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
 
-## 🧠 Aprendiendo
-
-[![Skills](https://skillicons.dev/icons?i=ts)](https://github.com/L3anAv)
-
+` > Lo siguiente será typescript.`
 
 ## 💻 Lenguajes - Herramientas - Frameworks
 
