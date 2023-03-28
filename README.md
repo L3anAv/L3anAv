@@ -8,11 +8,11 @@
 
 ### 🧠 Desarollando actualmente:
 
-`⚡ Actualmente estoy aprendiendo desarollo Frontend con React JS.`
+`⚡ Estoy aprendiendo desarollo Frontend con React JS.`
 
 [![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
 
-` > Lo siguiente será typescript.`
+` > Lo siguiente será con typescript.`
 
 ## 💻 Lenguajes - Herramientas - Frameworks
 
