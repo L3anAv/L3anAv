@@ -4,15 +4,13 @@
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3) [![portfolio](https://img.shields.io/badge/my_portfolio_👷🏾_(Building)-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
 
-### ⚡ Actualmente estoy aprendiendo desarollo Frontend con React JS.
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&layout=compact)](https://github.com/L3anAv)  
 
 ### 📌 Desarollando actualmente:
 
-[![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
+`⚡ Actualmente estoy aprendiendo desarollo Frontend con React JS.`
 
+[![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
 
 ## 🧠 Aprendiendo
 
