@@ -20,12 +20,13 @@
 
 </div>
 
-<div align="center">
+<br>
 
 ## <b> 🧠 Desarollando actualmente: </b>
 
+<div align="center">
+
 [![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
 
-- Proyecto donde busco aprender más sobre desarollo con React sumando typescript al proyecto. Mejorando la [SPA-Movies](https://github.com/L3anAv/spa-flixnet-movies) ya hecha anteriomente.
-
 </div>
+- Proyecto donde busco aprender más sobre desarollo con React sumando typescript al proyecto. Mejorando la [SPA-Movies](https://github.com/L3anAv/spa-flixnet-movies) ya hecha anteriomente.
