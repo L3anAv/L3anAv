@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center"><b>👋🏽👋🏽 Hola, soy Leandro!<b></h2>
+<p align="center"><b>👋🏽👋🏽 Hola, soy Leandro!<b></p>
 
 <br>
 
