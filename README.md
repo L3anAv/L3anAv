@@ -6,7 +6,11 @@
 
 </div>
 
-<p align="center"><b>👋🏽👋🏽 Hola, soy Leandro!<b></p>
+<div align="center">
+  
+### 👋🏽👋🏽 Hola, soy Leandro!
+
+</div>
 
 <br>
 
