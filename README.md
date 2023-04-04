@@ -1,27 +1,33 @@
-<h1 align="center"><b>👋🏽👋🏽 Hola, soy Leandro!</b></h1>
+<br>
 
-## Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
+<div align="center">
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3) [![portfolio](https://img.shields.io/badge/my_portfolio_👷🏾_(Building)-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3anAv&hide_progress=true)](https://github.com/L3anAv)
+</div>
 
-### 🧠 Desarollando actualmente:
-
-`⚡ Estoy aprendiendo desarollo Frontend con React JS.`
-
-[![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
-
-` > Lo siguiente será con typescript.`
-
-## 💻 Lenguajes - Herramientas - Frameworks
-
-[![Skills](https://skillicons.dev/icons?i=react,java,py,go,postgres)](https://github.com/L3anAv)
-
-[![Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,linux,vite)](https://github.com/L3anAv) 
+<h2 align="center"><b>👋🏽👋🏽 Hola, soy Leandro!<b></h2>
 
 <br>
 
-# # 📃 Último repositorio de trabajo universitario
+<div align="center">
 
-[![L3anAv/bdd-tp-postgres - GitHub](https://gh-card.dev/repos/L3anAv/bdd-tp-postgres.png)](https://github.com/L3anAv/bdd-tp-postgres)
+## Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
+
+[![Skills](https://skillicons.dev/icons?i=react,vite,typescript,styledcomponents,java,py,postgres)](https://github.com/L3anAv)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## <b> 🧠 Desarollando actualmente: </b>
+
+[![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
+
+<br>
+
+> Proyecto donde busco aprender más sobre desarollo con React sumando typescript al proyecto. Mejorando la [SPA-Movies](https://github.com/L3anAv/spa-flixnet-movies) ya hecha anteriomente.
+
+</div>
