@@ -12,8 +12,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ## Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
@@ -22,15 +20,11 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ## <b> 🧠 Desarollando actualmente: </b>
 
 [![L3anAv/flixnet-movies-app - GitHub](https://gh-card.dev/repos/L3anAv/flixnet-movies-app.svg)](https://github.com/L3anAv/flixnet-movies-app)
-
-<br>
 
 > Proyecto donde busco aprender más sobre desarollo con React sumando typescript al proyecto. Mejorando la [SPA-Movies](https://github.com/L3anAv/spa-flixnet-movies) ya hecha anteriomente.
 
