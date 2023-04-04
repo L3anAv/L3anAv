@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
+### Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento.](https://www.ungs.edu.ar/)
 
 [![Skills](https://skillicons.dev/icons?i=react,vite,typescript,styledcomponents,java,py,postgres)](https://github.com/L3anAv)
 
