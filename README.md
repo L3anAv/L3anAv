@@ -14,7 +14,11 @@
 
 ### Soy estudiante del tercer año de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento.](https://www.ungs.edu.ar/)
 
-[![Skills](https://skillicons.dev/icons?i=react,vite,typescript,styledcomponents,java,py,postgres)](https://github.com/L3anAv)
+<!---
+typescript
+-->
+
+[![Skills](https://skillicons.dev/icons?i=react,vite,styledcomponents,java,py,postgres)](https://github.com/L3anAv)
 
 </div>
 
