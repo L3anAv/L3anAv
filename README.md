@@ -1,7 +1,6 @@
 <div align="center">
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3) [![portfolio]](https://l3anav.github.io/L3anAv/)
-
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tetra_pico3) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://l3anav.github.io/L3anAv/)
 </div>
 
 <div align="center">
