@@ -29,7 +29,5 @@ typescript
 
 [![]()]()
 
-- Proyecto donde busco aprender más sobre desarollo con React sumando typescript al proyecto. Mejorando la [SPA-Movies](https://github.com/L3anAv/spa-flixnet-movies) ya hecha anteriomente.
-  
 </div>
 
