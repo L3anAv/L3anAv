@@ -25,6 +25,8 @@ typescript
 
 <br>
 
+## <b> Lista de herramientas para frontend </b>
+[![/l3anav/frontend-utilidades - GitHub](https://gh-card.dev/repos/l3anav/frontend-utilidades.svg?fullname=)](https://github.com/l3anav/frontend-utilidades)
 ## <b> 🧠 Desarollando actualmente: </b>
 
 <div align="center">
