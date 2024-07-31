@@ -29,6 +29,6 @@ typescript
 
 ## <b> Lista de herramientas para frontend </b>
 
-[/l3anav/frontend-utilidades - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
+* [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
 
 </div>
