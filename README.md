@@ -27,5 +27,5 @@ typescript
 
 ## <b> Recursos compartidos </b>
 
-* [Tema de CABJ para oh-my-posh](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121)
+* [Tema de CABJ para oh-my-posh - Gist](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121)
 * [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
