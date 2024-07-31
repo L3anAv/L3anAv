@@ -25,10 +25,11 @@ typescript
 
 <br>
 
+## <b> Recursos compartidos </b>
+
 <div align="center">
 
-## <b> Lista de herramientas para frontend </b>
-
+* [Tema de CABJ para oh-my-posh](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121)
 * [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
 
 </div>
