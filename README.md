@@ -2,7 +2,7 @@
   
 ![Banner](https://i.ibb.co/whYHC8h/l3anav.png)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://www.leanav.dev.ar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://l3anav.github.io/portfolio/)
 </div>
 
 <div align="center">
