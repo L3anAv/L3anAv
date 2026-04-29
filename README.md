@@ -10,10 +10,12 @@
 </div>
 
 <br>
+
 ## <b> últimas entradas de blog </b>
 * [Contruí un linktr.ee ¿de que sirvió?](https://l3anav.github.io/Blog/post/contru-un-linktr-ee-de-que-sirvi/)
 
 <br>
+
 ## <b> Recursos compartidos </b>
 
 * [Tema de CABJ para oh-my-posh - Gist](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121)
