@@ -7,7 +7,7 @@ Estudiante de la Tecnicatura Superior en Informática en la Universidad Nacional
 <br/>
 
 ## <b> Últimas entradas de blog </b>
-* [Contruí un linktr.ee ¿sirvió?](https://l3anav.github.io/Blog/post/contru-un-linktr-ee-de-que-sirvi/)
+* <a href="https://l3anav.github.io/Blog/post/contru-un-linktr-ee-de-que-sirvi/" target="_blank">Contruí un linktr.ee ¿sirvió?</a>
 
 ## <b> Recursos compartidos </b>
 
