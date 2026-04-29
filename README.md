@@ -1,5 +1,5 @@
 
-<h1>console.log("👋🏽👋🏽 Hola, un gusto yo soy !Leandro!")</h1>
+<h1>console.log("Hola, un gusto yo soy !Leandro!")</h1>
 <strong>Desarollador Frontend</strong>
 <br/>
 <br/>
