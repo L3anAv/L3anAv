@@ -2,6 +2,7 @@
 ## console.log("👋🏽👋🏽 Hola, te saluda Leandro!")
 
 <div align="center">
+  
 ## Frontend Dev
 ### Soy estudiante de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento.](https://www.ungs.edu.ar/)
 
