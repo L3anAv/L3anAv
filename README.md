@@ -1,15 +1,10 @@
 
-# console.log("👋🏽👋🏽 Hola, un gusto yo soy !Leandro!")
-
-### Soy estudiante de la Tecnicatura Superior en Informática en la [Universidad Nacional General Sarmiento.](https://www.ungs.edu.ar/)
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=react,vite,styledcomponents,java,py,postgres)](https://github.com/L3anAv)
-
-</div>
-
-<br>
+<h1>console.log("👋🏽👋🏽 Hola, un gusto yo soy !Leandro!")</h1>
+<strong>Desarollador Frontend</strong>
+<br/>
+<br/>
+Estudiante de la Tecnicatura Superior en Informática en la Universidad Nacional General Sarmiento.
+<br/>
 
 ## <b> Últimas entradas de blog </b>
 * [Contruí un linktr.ee ¿sirvió?](https://l3anav.github.io/Blog/post/contru-un-linktr-ee-de-que-sirvi/)
