@@ -7,7 +7,7 @@ Estudiante de la Tecnicatura Superior en Informática en la Universidad Nacional
 <br/>
 
 ## <b> Últimas entradas de blog </b>
-* [Contruí un linktr.ee ¿sirvió?](https://l3anav.github.io/Blog/post/contru-un-linktr-ee-de-que-sirvi/)
+* [Contruí un linktr.ee ¿sirvió?](https://l3anav.github.io/Blog/post/contrui-un-linktr-ee-de-que-sirvio/)
   
 ## <b> Recursos compartidos </b>
 * [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
