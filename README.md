@@ -1,15 +1,47 @@
+<div align="left">
+  <a href="https://l3anav.github.io/portfolio" style="font-family: monospace; font-size: 10px; text-decoration: none;">Portfolio</a>
+  <span style=" font-family: monospace; font-size: 12px;"> | </span> 
+  <a href="https://l3anav.github.io/Blog" style="color:black; font-family: monospace; font-size: 12px; text-decoration: none;">Blog</a>
+</div>
 
-<h1>console.log("Hola, un gusto yo soy !Leandro!")</h1>
-<strong>Desarollador Frontend</strong>
-<br/>
-<br/>
-Estudiante de la Tecnicatura Superior en Informática en la Universidad Nacional General Sarmiento.
 <br/>
 
-## <b> Últimas entradas de blog </b>
-* [Contruí un linktr.ee ¿sirvió?](https://l3anav.github.io/Blog/post/contrui-un-linktr-ee-de-que-sirvio/)
-  
-## <b> Recursos compartidos </b>
-* [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2)
-* [Tema de CABJ para oh-my-posh - Gist](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121)
+> ```text
+> +-----------------------------------------------------------------------+
+> |  l3anav@github:~$ whoami                                              | 
+> |                                                                       |
+> |  +-----------------------------------------------------------------+  |
+> |  | Leandro Avila · Frontend Developer · Argentina                  |  |
+> |  | Tec. Univ. Sistemas (UNGS)                                      |  |
+> |  | Lightweight Software Enthusiast · Open Source Novice            |  |
+> |  +-----------------------------------------------------------------+  |
+> |                                                                       |
+> |  l3anav@github:~$ cat stack.conf                                      |
+> |                                                                       |
+> |  [frontend]         React · JavaScript/CSS/HTML                       |
+> |   [languages]        Java · Go (Golang) · SQL                         |
+> |                                                                       |
+> |  l3anav@github:~$ grep -E "deportes|cocina" hobbies.txt               |
+> |                                                                       |
+> |  volleyball · pan masa madre · mate · cocina                          |
+> |                                                                       |
+> |  l3anav@github:~$ |                                                   |
+> +-----------------------------------------------------------------------+
+> ```
+> <table>
+>   <tr>
+>     <td>
+>       l3anav@github:~$ ls -1 posts/recent/ <br>
+>       📃 <a href="https://l3anav.github.io/Blog/post/contrui-un-linktr-ee-de-que-sirvio">Contruí un linktr.ee ¿sirvió?</a>
+>     </td>
+>   </tr>
+> </table>
 
+<!--
+
+| 📂 Recursos compartidos |
+| :--- |
+| 🛠️ [Utilidades para frontend - Gist](https://gist.github.com/L3anAv/2c4595f73886c1f6606be7a3a3cd87f2) |
+| ⚽ [Tema de CABJ para oh-my-posh - Gist](https://gist.github.com/L3anAv/2c530bfecbbdf27aee4eb102a76ff121) |
+
+-->
