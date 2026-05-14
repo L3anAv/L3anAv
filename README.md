@@ -9,7 +9,6 @@
 > ```text
 > +-----------------------------------------------------------------------+
 > |  l3anav@github:~$ whoami                                              | 
-> |                                                                       |
 > |  +-----------------------------------------------------------------+  |
 > |  | Leandro Avila · Frontend Developer · Argentina                  |  |
 > |  | Tec. Univ. Sistemas (UNGS)                                      |  |
@@ -17,13 +16,15 @@
 > |  +-----------------------------------------------------------------+  |
 > |                                                                       |
 > |  l3anav@github:~$ cat stack.conf                                      |
-> |                                                                       |
-> |  [frontend]         React · JavaScript/CSS/HTML                       |
-> |   [languages]        Java · Go (Golang) · SQL                         |
+> |  +-----------------------------------------------------------------+  |
+> |  | [frontend]         React · JavaScript/CSS/HTML                  |  |
+> |  | [languages]        Java · Go (Golang) · SQL                     |  |
+> |  +-----------------------------------------------------------------+  |
 > |                                                                       |
 > |  l3anav@github:~$ grep -E "deportes|cocina" hobbies.txt               |
-> |                                                                       |
-> |  volleyball · pan masa madre · mate · cocina                          |
+> |  +-----------------------------------------------------------------+  |
+> |  |volleyball · pan masa madre · mate · cocina                      |  |
+> |  +-----------------------------------------------------------------+  |
 > |                                                                       |
 > |  l3anav@github:~$ |                                                   |
 > +-----------------------------------------------------------------------+
