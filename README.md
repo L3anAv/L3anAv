@@ -1,32 +1,46 @@
 <div align="left">
-  <a href="https://l3anav.github.io/portfolio" style="font-family: monospace; font-size: 10px; text-decoration: none;">Portfolio</a>
+  <a href="https://l3anav.github.io/portfolio" style="font-family: monospace; font-size: 10px; text-decoration: none;">web</a>
   <span style=" font-family: monospace; font-size: 12px;"> | </span> 
-  <a href="https://l3anav.github.io/Blog" style="color:black; font-family: monospace; font-size: 12px; text-decoration: none;">Blog</a>
+  <a href="https://l3anav.github.io/Blog" style="color:black; font-family: monospace; font-size: 12px; text-decoration: none;">blog</a>
 </div>
 <br/>
 
 ```text
-+-----------------------------------------------------------------------+
-|  l3anav@github:~$ whoami                                              | 
-|  +-----------------------------------------------------------------+  |
-|  | Leandro Avila · Frontend Developer · Argentina                  |  |
-|  | Tec. Univ. Sistemas (UNGS)                                      |  |
-|  | Lightweight Software Enthusiast · Open Source Novice            |  |
-|  +-----------------------------------------------------------------+  |
-|                                                                       |
-|  l3anav@github:~$ cat stack.conf                                      |
-|  +-----------------------------------------------------------------+  |
-|  | [frontend]         React · JavaScript/CSS/HTML                  |  |
-|  | [languages]        Java · Go (Golang) · SQL                     |  |
-|  +-----------------------------------------------------------------+  |
-|                                                                       |
-|  l3anav@github:~$ grep -E "deportes|cocina" hobbies.txt               |
-|  +-----------------------------------------------------------------+  |
-|  |volleyball · pan masa madre · mate · cocina                      |  |
-|  +-----------------------------------------------------------------+  |
-|                                                                       |
-|  l3anav@github:~$ |                                                   |
-+-----------------------------------------------------------------------+
+   _____________________________________________________________________
+/  _____________________________________________________________________  \
+| |                                                                     | |
+| |  l3anav@github:~$ whoami                                            | |
+| |  +---------------------------------------------------------------+  | |
+| |  | Leandro Avila · Desarrollador Frontend · Argentina            |  | |
+| |  | Tec. Univ. Sistemas (UNGS)                                    |  | |
+| |  | Entusiasta del Software Ligero · Novato en Open Source        |  | |
+| |  +---------------------------------------------------------------+  | |
+| |                                                                     | |
+| |  l3anav@github:~$ cat stack.conf                                    | |
+| |  +---------------------------------------------------------------+  | |
+| |  | [frontend]        React · JavaScript/CSS/HTML                 |  | |
+| |  | [lenguajes]       Java · Go (Golang) · SQL                    |  | |
+| |  +---------------------------------------------------------------+  | |
+| |                                                                     | |
+| |  l3anav@github:~$ grep -E "deportes|cocina" intereses.txt           | |
+| |  +---------------------------------------------------------------+  | |
+| |  | vóley · pan de masa madre · mate · cocina                     |  | |
+| |  +---------------------------------------------------------------+  | |
+| |                                                                     | |
+| |  l3anav@github:~$ exit                                              | |
+| |_____________________________________________________________________| |
+\ _______________________________________________________________________ /
+                                    |#|                                
+        ____________________________|#|________________________      
+         /    _______________________________________________    \
+        /    /  _   _   _   _   _   _   _   _   _   _   _    \    \
+       /    /  [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_]    \    \
+      /    /  [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_]      \    \
+     /    /  [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_]        \    \
+    /____/_______________________________________________________\____\
+   |                                                                   |
+   |___________________________________________________________________|
+    \_/                                                             \_/
 ```
 <p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="20" height="1" align="left">
